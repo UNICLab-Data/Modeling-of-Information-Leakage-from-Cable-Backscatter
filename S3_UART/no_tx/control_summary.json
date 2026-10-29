@@ -1,0 +1,97 @@
+{
+  "runs": 2,
+  "files": 122,
+  "total_capture_time_s": 244,
+  "step_hz": 20000000,
+  "all_samples_finite_and_nonconstant": true,
+  "decoder_sha256": "0d531a8c4afb581bc6142275101609474a61acd5627fac1f8cdf0d7a227fe2e6",
+  "totals": {
+    "candidate_frames": 13,
+    "complete_frames": 11,
+    "sync_frames": 0,
+    "header_frames": 0,
+    "crc_frames": 0
+  },
+  "by_run": {
+    "3": {
+      "candidate_frames": 8,
+      "complete_frames": 7,
+      "sync_frames": 0,
+      "header_frames": 0,
+      "crc_frames": 0
+    },
+    "4": {
+      "candidate_frames": 5,
+      "complete_frames": 4,
+      "sync_frames": 0,
+      "header_frames": 0,
+      "crc_frames": 0
+    }
+  },
+  "max_prefix_correlation_range": [
+    0.011847130443900298,
+    0.1661472263627305
+  ],
+  "key_frequencies": [
+    {
+      "file": "rx_001280000000Hz_fc32.dat",
+      "frequency_hz": "1280000000",
+      "candidate_frames": "0",
+      "complete_frames": "0",
+      "sync_frames": "0",
+      "header_frames": "0",
+      "crc_frames": "0",
+      "mean_correlation": "0.0",
+      "mean_separation": "0.0",
+      "bit_errors": "0",
+      "compared_bits": "0",
+      "ber": "",
+      "directory": "3"
+    },
+    {
+      "file": "rx_001340000000Hz_fc32.dat",
+      "frequency_hz": "1340000000",
+      "candidate_frames": "0",
+      "complete_frames": "0",
+      "sync_frames": "0",
+      "header_frames": "0",
+      "crc_frames": "0",
+      "mean_correlation": "0.0",
+      "mean_separation": "0.0",
+      "bit_errors": "0",
+      "compared_bits": "0",
+      "ber": "",
+      "directory": "3"
+    },
+    {
+      "file": "rx_001280000000Hz_fc32.dat",
+      "frequency_hz": "1280000000",
+      "candidate_frames": "0",
+      "complete_frames": "0",
+      "sync_frames": "0",
+      "header_frames": "0",
+      "crc_frames": "0",
+      "mean_correlation": "0.0",
+      "mean_separation": "0.0",
+      "bit_errors": "0",
+      "compared_bits": "0",
+      "ber": "",
+      "directory": "4"
+    },
+    {
+      "file": "rx_001340000000Hz_fc32.dat",
+      "frequency_hz": "1340000000",
+      "candidate_frames": "0",
+      "complete_frames": "0",
+      "sync_frames": "0",
+      "header_frames": "0",
+      "crc_frames": "0",
+      "mean_correlation": "0.0",
+      "mean_separation": "0.0",
+      "bit_errors": "0",
+      "compared_bits": "0",
+      "ber": "",
+      "directory": "4"
+    }
+  ]
+}

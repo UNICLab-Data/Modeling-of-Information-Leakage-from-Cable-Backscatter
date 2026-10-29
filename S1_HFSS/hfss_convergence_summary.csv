@@ -1,0 +1,5 @@
+length_cm,completed_passes,maximum_passes,minimum_passes,target_consecutive_passes,final_delta_mag_energy,target_delta_mag_energy,final_solved_elements,total_mesh_elements,converged,hfss_version
+10,4,8,2,2,0.0017922,0.02,121715,135514,Yes,2023.1.0
+20,5,8,2,2,0.00099552,0.02,360154,298680,Yes,2023.1.0
+30,3,8,2,2,0.012842,0.02,146311,179370,Yes,2023.1.0
+40,5,8,2,2,0.0082814,0.02,284391,338425,Yes,2023.1.0

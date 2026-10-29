@@ -1,0 +1,9 @@
+model,length_cm,criterion,target,completed_passes,maximum_passes,minimum_passes,consecutive_passes,final_solved_elements,final_metric,converged
+Differential-port,10,Max Mag. Delta S,0.01,5,12,2,2,147297,0.0007973,Yes
+Differential-port,20,Max Mag. Delta S,0.01,6,12,2,2,210943,0.0046215,Yes
+Differential-port,30,Max Mag. Delta S,0.01,7,12,2,2,300762,0.004941,Yes
+Differential-port,40,Max Mag. Delta S,0.01,6,12,2,2,352617,0.0046312,Yes
+Plane-wave,10,Delta Mag Energy,0.02,4,8,2,2,121715,0.0017922,Yes
+Plane-wave,20,Delta Mag Energy,0.02,5,8,2,2,360154,0.00099552,Yes
+Plane-wave,30,Delta Mag Energy,0.02,3,8,2,2,146311,0.012842,Yes
+Plane-wave,40,Delta Mag Energy,0.02,5,8,2,2,284391,0.0082814,Yes
